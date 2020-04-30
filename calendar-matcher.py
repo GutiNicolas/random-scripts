@@ -1,4 +1,7 @@
 
+# Scripts that finds Mathcing time spaces between to calendars for a meeting
+
+
 def get_time_on_mins(time):
     h, m = time.split(":")
     if int(h) != 0 or int(h) != 00:
